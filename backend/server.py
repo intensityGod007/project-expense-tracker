@@ -20,6 +20,7 @@ def get_expenses(expense_date: date):
 
 @app.post("/expenses/{expense_date}")
 def add_expenses(expense_date: date, expenses: List[Expense]):
+    db_helper.delete_expenses_for_date(expense_date)
     for expense in expenses:
         db_helper.insert_expense(expense_date, expense.amount, expense.category, expense.notes)
 

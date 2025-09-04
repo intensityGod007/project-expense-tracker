@@ -2,3 +2,54 @@
 2025-09-04 20:01:14,895 - db_helper - INFO - fetch_expenses_for_date called with date: 2024-08-02
 2025-09-04 20:01:39,971 - db_helper - INFO - fetch_expenses_for_date called with date: 2024-09-02
 2025-09-04 20:02:34,226 - db_helper - INFO - fetch_expenses_for_date called with date: 2024-08-28
+2025-09-04 21:36:04,912 - db_helper - INFO - fetch_expenses_for_date called with date: 2024-08-01
+2025-09-04 21:36:29,351 - db_helper - INFO - fetch_expenses_for_date called with date: 2024-08-02
+2025-09-04 21:54:03,901 - db_helper - INFO - fetch_expenses_for_date called with date: 2024-08-08
+2025-09-04 22:05:43,213 - db_helper - INFO - fetch_expenses_for_date called with date: 2024-08-08
+2025-09-04 22:06:04,484 - db_helper - INFO - fetch_expenses_for_date called with date: 2024-08-01
+2025-09-04 22:06:45,354 - db_helper - INFO - fetch_expenses_for_date called with date: 2024-08-01
+2025-09-04 22:07:33,519 - db_helper - INFO - fetch_expenses_for_date called with date: 2024-08-01
+2025-09-04 22:10:41,763 - db_helper - INFO - fetch_expenses_for_date called with date: 2024-08-01
+2025-09-04 22:12:03,265 - db_helper - INFO - fetch_expenses_for_date called with date: 2024-08-01
+2025-09-04 22:12:08,395 - db_helper - INFO - fetch_expenses_for_date called with date: 2024-08-01
+2025-09-04 22:25:02,942 - db_helper - INFO - fetch_expenses_for_date called with date: 2024-08-01
+2025-09-04 22:25:29,050 - db_helper - INFO - fetch_expenses_for_date called with date: 2024-08-01
+2025-09-04 22:26:56,354 - db_helper - INFO - fetch_expenses_for_date called with date: 2024-08-01
+2025-09-04 22:28:33,711 - db_helper - INFO - fetch_expenses_for_date called with date: 2024-08-01
+2025-09-04 22:29:00,928 - db_helper - INFO - fetch_expenses_for_date called with date: 2024-08-01
+2025-09-04 22:30:50,372 - db_helper - INFO - fetch_expenses_for_date called with date: 2024-08-01
+2025-09-04 22:32:58,516 - db_helper - INFO - fetch_expenses_for_date called with date: 2024-08-01
+2025-09-04 22:33:08,289 - db_helper - INFO - fetch_expenses_for_date called with date: 2024-08-02
+2025-09-04 22:33:48,354 - db_helper - INFO - fetch_expenses_for_date called with date: 2024-08-15
+2025-09-04 22:33:56,665 - db_helper - INFO - fetch_expenses_for_date called with date: 2024-08-17
+2025-09-04 22:38:08,138 - db_helper - INFO - fetch_expenses_for_date called with date: 2024-08-17
+2025-09-04 22:38:53,727 - db_helper - INFO - fetch_expenses_for_date called with date: 2024-08-17
+2025-09-04 22:41:42,853 - db_helper - INFO - fetch_expenses_for_date called with date: 2024-08-17
+2025-09-04 22:41:52,867 - db_helper - INFO - fetch_expenses_for_date called with date: 2024-08-17
+2025-09-04 22:41:57,898 - db_helper - INFO - fetch_expenses_for_date called with date: 2024-08-17
+2025-09-04 22:42:11,267 - db_helper - INFO - fetch_expenses_for_date called with date: 2024-08-17
+2025-09-04 22:42:57,623 - db_helper - INFO - fetch_expenses_for_date called with date: 2024-08-17
+2025-09-04 22:43:07,895 - db_helper - INFO - fetch_expenses_for_date called with date: 2024-08-12
+2025-09-04 22:43:12,386 - db_helper - INFO - fetch_expenses_for_date called with date: 2024-08-12
+2025-09-04 22:46:44,439 - db_helper - INFO - fetch_expenses_for_date called with date: 2024-08-12
+2025-09-04 22:46:49,443 - db_helper - INFO - fetch_expenses_for_date called with date: 2024-08-12
+2025-09-04 22:46:51,542 - db_helper - INFO - insert_expense called with date: 2024-08-12, amount: 10.0, category: Food, notes: Chicken burger
+2025-09-04 22:46:51,633 - db_helper - INFO - insert_expense called with date: 2024-08-12, amount: 50.0, category: Entertainment, notes: Infinity castle movie
+2025-09-04 22:47:03,026 - db_helper - INFO - fetch_expenses_for_date called with date: 2024-08-12
+2025-09-04 22:47:36,892 - db_helper - INFO - fetch_expenses_for_date called with date: 2024-08-12
+2025-09-04 22:47:42,512 - db_helper - INFO - fetch_expenses_for_date called with date: 2024-08-13
+2025-09-04 22:47:46,907 - db_helper - INFO - fetch_expenses_for_date called with date: 2024-08-12
+2025-09-04 22:48:17,578 - db_helper - INFO - fetch_expenses_for_date called with date: 2024-08-12
+2025-09-04 22:48:19,686 - db_helper - INFO - insert_expense called with date: 2024-08-12, amount: 10.0, category: Food, notes: Chicken burger
+2025-09-04 22:48:19,704 - db_helper - INFO - insert_expense called with date: 2024-08-12, amount: 50.0, category: Entertainment, notes: Infinity castle movie
+2025-09-04 22:48:19,724 - db_helper - INFO - insert_expense called with date: 2024-08-12, amount: 40000.0, category: Other, notes: Made a business deal
+2025-09-04 22:48:27,555 - db_helper - INFO - fetch_expenses_for_date called with date: 2024-08-12
+2025-09-04 22:49:31,010 - db_helper - INFO - fetch_expenses_for_date called with date: 2024-08-12
+2025-09-04 22:50:03,404 - db_helper - INFO - fetch_expenses_for_date called with date: 2024-08-01
+2025-09-04 22:50:11,056 - db_helper - INFO - fetch_expenses_for_date called with date: 2024-08-12
+2025-09-04 22:50:23,270 - db_helper - INFO - fetch_expenses_for_date called with date: 2024-08-12
+2025-09-04 22:50:25,362 - db_helper - INFO - delete_expense_for_date called with date: 2024-08-12
+2025-09-04 22:50:25,425 - db_helper - INFO - insert_expense called with date: 2024-08-12, amount: 10.0, category: Food, notes: Chicken burger
+2025-09-04 22:50:25,450 - db_helper - INFO - insert_expense called with date: 2024-08-12, amount: 50.0, category: Entertainment, notes: Infinity castle movie
+2025-09-04 22:50:25,465 - db_helper - INFO - insert_expense called with date: 2024-08-12, amount: 40000.0, category: Other, notes: Made a business deal
+2025-09-04 22:51:34,714 - db_helper - INFO - fetch_expenses_for_date called with date: 2024-08-12
