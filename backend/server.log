@@ -53,3 +53,9 @@
 2025-09-04 22:50:25,450 - db_helper - INFO - insert_expense called with date: 2024-08-12, amount: 50.0, category: Entertainment, notes: Infinity castle movie
 2025-09-04 22:50:25,465 - db_helper - INFO - insert_expense called with date: 2024-08-12, amount: 40000.0, category: Other, notes: Made a business deal
 2025-09-04 22:51:34,714 - db_helper - INFO - fetch_expenses_for_date called with date: 2024-08-12
+2025-09-05 23:52:02,053 - db_helper - INFO - fetch_expenses_for_date called with date: 2024-08-12
+2025-09-05 23:54:04,526 - db_helper - INFO - fetch_expenses_summary called with start_date: 2024-08-02, end_date: 2024-08-05
+2025-09-06 00:01:09,009 - db_helper - INFO - fetch_expenses_summary called with start_date: 2024-08-02, end_date: 2024-08-05
+2025-09-06 00:01:42,326 - db_helper - INFO - fetch_expenses_summary called with start_date: 2024-08-02, end_date: 2024-08-05
+2025-09-06 00:03:40,771 - db_helper - INFO - fetch_expenses_summary called with start_date: 2024-08-02, end_date: 2024-08-05
+2025-09-06 00:03:53,880 - db_helper - INFO - fetch_expenses_summary called with start_date: 2024-08-02, end_date: 2024-09-01
